@@ -6,8 +6,8 @@ import json
 import time
 import os
 
-funcap_key = "178c3b9d2c5641259c8ea62a4f2c97fa750715"
-sms_key = "hTTUf1Mi8QZHEVE11Y9CcqHNC9891z"
+funcap_key = "..."
+sms_key = "..."
 proxyFile = "../outlookProxies1.txt"
 
 THREADS = 5
